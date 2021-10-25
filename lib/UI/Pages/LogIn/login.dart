@@ -297,7 +297,7 @@ class _LoginState extends State<Login> {
                   child: Center(
                     child: RichText(
                         text: const TextSpan(
-                            text: '已有账号?',
+                            text: '..已有账号?',
                             style: TextStyle(color: Colors.black, fontSize: 15),
                             children: <TextSpan>[
                           TextSpan(
